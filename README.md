@@ -65,7 +65,6 @@ MERN-LAB/
 │   │   │   ├── Pages/          # View pages (Home, Products, Cart, Checkout, Orders, etc.)
 │   │   │   ├── App.jsx         # App router setup
 │   │   │   └── main.jsx        # Entry point
-│   │   ├── .env.example        # Frontend environment variables template
 │   │   └── package.json
 │   └── package.json            # Client root runner scripts
 ├── server/                     # Backend API server
@@ -76,7 +75,6 @@ MERN-LAB/
 │   ├── routes/                 # Express API routes
 │   ├── utils/                  # Helper utilities (token generator)
 │   ├── index.js                # Server entry point
-│   ├── .env.example            # Backend environment variables template
 │   └── package.json
 ├── .gitignore                  # Git ignore rules for root, client, and server
 └── README.md                   # Project documentation
