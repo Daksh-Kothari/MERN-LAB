@@ -113,15 +113,9 @@ VITE_RAZORPAY_KEY_ID=your_razorpay_key_id
 
 ---
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/Daksh-Kothari/MERN-LAB.git
-cd MERN-LAB
-```
-
 ---
 
-### Step 2: Backend Setup
+### Step 1: Backend Setup
 ```bash
 # Navigate to server directory
 cd server
@@ -136,7 +130,7 @@ npm run dev
 
 ---
 
-### Step 3: Frontend Setup
+### Step 2: Frontend Setup
 Open a new terminal window:
 
 ```bash
