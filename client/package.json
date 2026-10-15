@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "npm --prefix vite-project run dev",
+    "build": "npm --prefix vite-project run build",
+    "preview": "npm --prefix vite-project run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "axios": "^1.20.0",
+    "react-router-dom": "^7.18.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
